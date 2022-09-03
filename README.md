@@ -1,4 +1,6 @@
-🤔 Ainda não sei o que escrever aqui... 
+Sou e sempre fui um cara curioso, então a área de tecnologia acaba tendo um apelo especial pra mim. Desde minha adolescência comecei a "fuçar nos PCs" e acabei sendo aquele sujeito que arrumava as maquininhas dos parentes, amigos, vizinhos... Disso daí, passei a trabalhar com manutenção em pequenos escritórios de informática, trabalhei também em help-desk em diversas empresas de pequeno, médio e grande portes, me formei em gestão de TI pra consolidar e aprimorar diversas práticas e conhecimentos dessas área e mais recentemente resolvi me dedicar de vez ao desenvolvimento - já que o mercado está carente de profissionais e a área possibilita uma maior flexibilidade, além de depender de aprendizado perene (o que são coisas bem importantes e estimulantes pra mim!)
+
+Nestes repositórios têm um pouquinho do que venho estudando e praticando nesses últimos tempos de maneira mais intensa e focada principalmente através do curso da Trybe. Obrigado pela visita! :smiley:
 
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoaresGarcia&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
