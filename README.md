@@ -9,6 +9,7 @@ Nestes repositórios têm um pouquinho do que venho estudando e praticando nesse
 </div></p>
 
 <h3 align="center">Connect with me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:guilherme.garcia@email.com" target="blank"><img align="center" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/envelope_2709-fe0f.png" alt="email" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/guilhermesoaresgarcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermesoaresgarcia" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/18172843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18172843" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/guilherme_garcia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="guilherme_garcia" height="30" width="40" /></a></h3>
