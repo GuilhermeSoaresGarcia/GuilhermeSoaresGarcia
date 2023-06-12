@@ -3,7 +3,7 @@
 Nestes repositórios têm um pouquinho do que venho estudando e praticando nesses últimos tempos de maneira mais intensa e focada.
 </p>
 
-<p align="center"><b><sup>No momento estou estudando um pouco de:</sup></b> <a href="https://www.oracle.com/br/java/" target="blank"><img height="50em" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png?f=avif&w=256" alt="java_logo" /></a>
+<p align="center"><b><sup>No momento estou estudando um pouco de:</sup></b> <a href="https://www.r-project.org/" target="blank"><img height="50em" src="https://www.r-project.org/Rlogo.png" alt="r_logo" /></a>
 </p>
 
 
