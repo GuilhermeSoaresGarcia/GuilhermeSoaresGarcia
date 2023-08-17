@@ -1,10 +1,8 @@
 <p align="justify">
-Nestes repositórios têm um pouquinho do que venho estudando e praticando nesses últimos tempos de maneira mais intensa e focada.
+Oi, eu sou o Guilherme! Nestes repositórios têm um pouquinho do que venho estudando e praticando nesses últimos tempos de maneira mais intensa e focada.
 </p>
 
-<p align="center"><b><sup>No momento estou estudando um pouco de:</sup></b> <a href="https://www.r-project.org/" target="blank"><img height="50em" src="https://www.r-project.org/Rlogo.png" alt="r_logo" /></a>
-</p>
-
+<p align="center"><b><sup>No momento estou estudando um pouco de:&nbsp;</sup></b> <a href="https://nextjs.org/" target="blank"><img height="50em" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="r_logo" /></a>
 
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoaresGarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
