@@ -2,7 +2,7 @@
 Oi, eu sou o Guilherme! Nestes repositórios têm um pouquinho do que venho estudando e praticando nesses últimos tempos de maneira mais intensa e focada.
 </p>
 
-<p align="center"><b><sup>No momento estou estudando um pouco de:&nbsp;</sup></b> <a href="https://www.java.com/en/download/help/whatis_java.html" target="blank"><img height="50em" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="java_logo" /></a>
+<p align="center"><b><sup>No momento estou estudando um pouco de:&nbsp;</sup></b> <a href="https://kotlinlang.org/" target="blank"><img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin_logo" /></a>
 
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoaresGarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
