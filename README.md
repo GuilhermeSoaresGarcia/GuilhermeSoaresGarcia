@@ -1,9 +1,6 @@
 <p align="justify">
-Oi, eu sou o Guilherme! Nestes repositórios têm um pouquinho do que venho estudando e praticando nesses últimos tempos de maneira mais intensa e focada.
+Oi, eu sou o Guilherme! Estes repositórios contém projetos pessoais ou de aprendizados, com um pouquinho do que estudei ou estou praticando, além de coisas que acho interessante de alguma forma.
 </p>
-
-<p align="center"><b><sup>No momento estou estudando um pouco de:&nbsp;</sup></b> <a href="https://angular.io/" target="blank"><img height="50em" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular_logo" /></a>
-<!-- <img height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin_logo" /> -->
 
 <div align="center">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoaresGarcia&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
