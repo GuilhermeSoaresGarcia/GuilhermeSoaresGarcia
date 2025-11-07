@@ -59,7 +59,6 @@ Oi, me chamo Guilherme! Fique á vontade para explorar estes repositórios e qua
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/thunderclient/thunder-client-support/blob/main/images/thunder-icon.png" alt="thunder" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gimp" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://www.audacityteam.org/_astro/Audacity_Logo.DK8H7nvr.svg" alt="audacity" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
