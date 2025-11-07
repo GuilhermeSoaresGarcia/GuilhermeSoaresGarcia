@@ -1,5 +1,5 @@
 <p align="justify">
-Oi, eu sou o Guilherme! Estes repositórios contém projetos pessoais ou de aprendizados, com um pouquinho do que estudei ou estou praticando, além de coisas que acho interessante de alguma forma.
+Oi, me chamo Guilherme! Fique á vontade para explorar estes repositórios e qualquer coisa entre em contato comigo!
 </p>
 
 <div align="center">
@@ -22,7 +22,6 @@ Oi, eu sou o Guilherme! Estes repositórios contém projetos pessoais ou de apre
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 </div>
 <br />
 
