@@ -61,8 +61,8 @@ Oi, eu sou o Guilherme! Estes repositórios contém projetos pessoais ou de apre
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/rangav/thunder-client-support/blob/master/images/thunder-icon.png" alt="thunder" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/thunderclient/thunder-client-support/blob/main/images/thunder-icon.png" alt="thunder" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.gimp.org/images/frontpage/wilber-big.png" alt="gimp" height="40"/> </a> &nbsp;&nbsp;&nbsp;
-<a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://www.audacityteam.org/wp-content/themes/wp_audacity/img/logo.png" alt="audacity" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="https://www.audacityteam.org/_astro/Audacity_Logo.DK8H7nvr.svg" alt="audacity" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.blackmagicdesign.com/br/products/davinciresolve" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/2048px-DaVinci_Resolve_17_logo.svg.png" alt="davinci resolve" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;
 </div>
